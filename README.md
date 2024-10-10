@@ -1,4 +1,3 @@
-Here’s an updated **ReadMe** for the **Tyre Quality Prediction** project, with the removal of references to a `requirements.txt` file:
 
 ---
 
@@ -48,8 +47,7 @@ To use this project:
 
 ## Contact
 
-For further information or any questions, feel free to reach out via [your-email@example.com](mailto:your-email@example.com).
+For further information or any questions, feel free to reach out via emircan7cankara@gmail.com
 
 ---
 
-This ReadMe provides a clear overview and instructions for the **Tyre Quality Prediction** project, without mentioning a `requirements.txt` file or specific code snippets.
